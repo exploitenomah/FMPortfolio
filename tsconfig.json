@@ -23,13 +23,13 @@
       }
     ],
     "paths": {
-      "@_components/*": [
+      "@/components/*": [
         "./app/_components"
       ],
-      "@_hooks/*": [
+      "@hooks/*": [
         "./app/_hooks"
       ],
-      "@_utils": [
+      "@utils": [
         "./app/_utils"
       ]
     }
